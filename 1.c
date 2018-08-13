@@ -2,4 +2,7 @@
 main()
 {
 	printf("hello\n");
+line2
 }
+
+
